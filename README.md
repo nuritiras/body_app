@@ -203,3 +203,6 @@ Bu örnek; bilişim teknolojileri, mobil uygulama geliştirme ve Flutter dersler
 ## 📄 Lisans
 
 Bu projeyi GitHub'da yayımlarken kullanım ve yeniden dağıtım koşullarını belirten bir lisans eklemeniz önerilir. Örneğin MIT Lisansı tercih edilecekse depoya uygun bir `LICENSE` dosyası ekleyin.
+
+<img width="798" height="1600" alt="image" src="https://github.com/user-attachments/assets/6126bbed-c3b5-45cb-bc51-ad5a1ee58053" />
+
