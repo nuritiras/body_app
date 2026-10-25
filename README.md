@@ -49,8 +49,8 @@ Bilgisayarınızda Flutter SDK ve uyumlu bir geliştirme ortamı (ör. Android S
 4. Uygulamayı çalıştırın.
 
 ```bash
-git clone https://github.com/nuritiras/
-cd proje-klasoru
+git clone https://github.com/nuritiras/body_app
+cd body_app
 flutter pub get
 flutter run
 ```
